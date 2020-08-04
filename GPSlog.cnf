@@ -1,0 +1,7 @@
+{
+    logfile: "/GPSlog.jsn",
+    buf: 2048,
+    ssid: "secret-SSID-home2.4",
+    pass: "secret-password-home",
+    url: "http://192.168.0.112:3000/log"
+}
